@@ -1,0 +1,80 @@
+# 🌐 Sowmya G — Developer Portfolio
+
+A modern, animated, and fully responsive personal portfolio website showcasing my work as a **Full Stack Developer & UI/UX Designer**. Built with clean UI principles, smooth animations, and interactive front-end effects.
+
+---
+
+## ✨ Highlights
+
+- 🎨 Premium UI with glassmorphism & gradient aesthetics  
+- 🖱️ Custom animated cursor with glow effect  
+- ✨ Scroll-based reveal animations  
+- 🧲 Magnetic button interactions  
+- ⌨️ Typewriter text animation  
+- 🌌 Particle background system  
+- 📊 Animated skill progress bars  
+- 🔢 Counter animation for stats  
+- 📱 Fully responsive across all devices  
+- 🧭 Scroll spy navigation highlighting  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- HTML5
+- CSS3 (Advanced Animations, Flexbox, Grid)
+- JavaScript (Vanilla JS)
+
+**Design:**
+- Figma-inspired UI structure
+- Google Fonts (Syne, DM Sans)
+
+---
+
+## 📁 Project Structure
+portfolio/
+│── index.html
+│── /images
+│ ├── smart.png
+│ ├── grievance sys.png
+│ ├── att.png
+│── README.md
+---
+
+## 📌 Sections Overview
+
+### 🏠 Hero Section
+- Animated name reveal
+- Dynamic typewriter effect
+- Call-to-action buttons
+
+### 👨‍💻 About Section
+- Personal introduction
+- Skill progress bars with animation
+- Profile card with tech tags
+
+### 🧰 Services
+- Web Design
+- UI/UX Design
+- Full Stack Development
+
+### 💼 Projects
+Featured work includes:
+- SmartQueue AI (AI-powered queue management system)
+- Grievance System (Complaint tracking platform)
+- Attendance Manager (Student attendance dashboard)
+
+### 📞 Contact
+- Email & phone details
+- Contact form UI (frontend)
+
+---
+
+## 🎯 Key Features (Technical)
+
+- Intersection Observer API for scroll animations  
+- Canvas-based particle system  
+- RequestAnimationFrame for smooth rendering  
+- Event-driven UI interactions  
+- Optimized DOM animations for performance
