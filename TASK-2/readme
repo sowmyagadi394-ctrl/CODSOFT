@@ -1,0 +1,64 @@
+🚀 FlowSync — AI-Powered Productivity Landing Page
+
+FlowSync is a modern and responsive SaaS landing page built using HTML and CSS.
+The project showcases a clean user interface, advanced layout design, dashboard mockups, pricing sections, testimonials, and modern UI/UX concepts inspired by real-world SaaS platforms.
+
+✨ Features
+* Fully Responsive Landing Page
+* Modern SaaS UI Design
+* Sticky Navigation Bar
+* Hero Section with CTA Buttons
+* Dashboard Mockup Interface
+* Features Showcase Section
+* Pricing Cards
+* Testimonials Section
+* CTA Subscription Banner
+* Professional Footer Layout
+* Smooth Hover & Transition Effects
+* Mobile Responsive Design
+
+🎨 UI Highlights
+* Minimal & Modern SaaS Design
+* Elegant Typography using Google Fonts
+* Soft Color Palette
+* Interactive Hover Effects
+* Dashboard Visualization
+* Professional Card Layouts
+* Clean Section Spacing
+* Responsive Grid System
+
+🛠️ Technologies Used
+HTML5
+CSS3
+Google Fonts
+
+📁 Project Structure
+FlowSync/
+│── index.html
+
+▶️ How to Run the Project
+Download or clone the repository.
+Open the project folder.
+Run the index.html file in any modern web browser.
+
+📚 Internship Information
+
+This project was developed as part of the CODSOFT Web Development Internship program.
+
+👨‍💻 Author
+
+Sowmya Gadi
+
+GitHub: https://github.com/sowmyagadi-ctrl/
+LinkedIn: www.linkedin.com/in/sowmyagadi
+
+🎯 Project Objective
+
+The main objective of this project is to improve:
+
+Frontend Development Skills
+Responsive Web Design
+SaaS Landing Page Design
+UI/UX Design Principles
+CSS Layout Techniques
+Modern Web Styling Concepts
