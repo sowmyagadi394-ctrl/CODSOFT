@@ -1,0 +1,62 @@
+🧮 Soft Calc — Glassmorphism Calculator
+
+Soft Calc is a modern and responsive calculator web application built using HTML, CSS, and JavaScript.
+It features a beautiful glassmorphism UI, smooth animations, keyboard support, and real-time arithmetic calculations.
+
+✨ Features
+* Modern Glassmorphism Design
+* Responsive User Interface
+* Addition, Subtraction, Multiplication & Division
+* Percentage Calculation
+* Positive/Negative Toggle (±)
+* Backspace Functionality
+* Keyboard Support
+* Real-Time Expression Display
+* Animated Buttons & Floating Background Blobs
+* Error Handling for Invalid Operations
+* Smooth Hover & Click Effects
+
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+
+🎨 UI Highlights
+Soft pastel gradient background
+Floating animated blobs
+Frosted glass calculator panel
+Smooth transitions and hover effects
+Fully responsive button grid
+Elegant typography using Google Fonts
+
+📁 Project Structure
+Soft-Calc/
+│── index.html
+
+▶️ How to Run the Project
+Download or clone the repository.
+Open the project folder.
+Run the index.html file in any web browser.
+
+📚 Internship Information
+
+This project was developed as part of the CODSOFT Web Development Internship program.
+
+👨‍💻 Author
+
+Sowmya Gadi
+
+GitHub: https://github.com/sowmyagadi-ctrl/
+LinkedIn: www.linkedin.com/in/sowmyagadi
+
+
+🎯 Project Objective
+
+The objective of this project is to improve:
+
+JavaScript Logic Building
+DOM Manipulation
+Event Handling
+Responsive UI Design
+Glassmorphism Styling Techniques
+Frontend Development Skills
